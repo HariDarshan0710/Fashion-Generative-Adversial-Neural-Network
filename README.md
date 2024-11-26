@@ -1,4 +1,4 @@
-**Generative Adversarial Neural Network**
+**FASHION Generative Adversarial Neural Network**
 
 **Built a Conditional GAN (cGAN) with Generator and Discriminator to generate realistic fashion images from the DeepFashion dataset.
 #Developed a custom data pipeline and implemented a training loop to optimize model performance.**
